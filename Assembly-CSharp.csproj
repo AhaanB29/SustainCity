@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{b5c63baa-d1a2-b5de-376e-1c006c9baec0}</ProjectGuid>
+    <ProjectGuid>{0280ed0b-b063-bf38-6bf3-8758b9b60a89}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -351,10 +351,10 @@
         <HintPath>/home/ahaanbanerjee/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/home/ahaanbanerjee/Unity/Hub/Editor/2021.3.11f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -723,73 +723,73 @@
         <HintPath>/home/ahaanbanerjee/Unity/Hub/Editor/2021.3.11f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Environments">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/home/ahaanbanerjee/Desktop/SSC_game_V1/SSC-Game-Main_final/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/media/ahaanbanerjee/Crucial X9/SustainCity/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
